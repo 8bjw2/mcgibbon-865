@@ -137,6 +137,10 @@ scene_pt_fact <- scene_pt_fact %>%
 ```
 
 ```{r}
+test test test
+```
+
+```{r}
 #### summary codes #####
 # summary<-
 #      group_by(scene_pt_fact, scene_mbr_acct_key)%>%
